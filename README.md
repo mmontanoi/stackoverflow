@@ -1,5 +1,5 @@
 
-### Table of Contents
+### MTable of Contents
 
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
